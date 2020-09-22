@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\Facade;
  *
  * @see \Illuminate\View\Factory
  */
-class Environment extends Facade
+class EnvironmentFacade extends Facade
 {
     /**
      * Get the registered name of the component.

@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="87369382-e554-4d36-8da4-84ea6965985f" name="Default Changelist" comment="" />
+    <list default="true" id="87369382-e554-4d36-8da4-84ea6965985f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Facades/Environment.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Facades/EnvironmentFacade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/EnvironmentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/EnvironmentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -123,6 +137,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1hbFxgmMKboAhYO4q6WPG8n298K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -158,20 +173,36 @@
       <option name="presentableId" value="Default" />
       <updated>1600272132405</updated>
       <workItem from="1600272133530" duration="7780000" />
+      <workItem from="1600804269701" duration="1068000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="347" y="100" width="1206" height="853" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1600276250431">
+    <state x="347" y="100" width="1206" height="853" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1600804754514">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="347" y="100" width="1206" height="853" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600276250431" />
+    <state x="347" y="100" width="1206" height="853" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600804754514" />
     <state x="745" y="241" width="419" height="565" key="NewPhpClassDialog" timestamp="1600280417581">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="745" y="241" width="419" height="565" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600280417581" />
+    <state x="773" y="203" width="363" height="640" key="RollbackChangesDialog" timestamp="1600804852733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="773" y="203" width="363" height="640" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600804852733" />
   </component>
 </project>

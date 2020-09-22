@@ -6,6 +6,6 @@ class EnvironmentController extends Controller
 {
     public static function get(string $variable) : string
     {
-        return $_ENV[$variable];
+        return config($variable);
     }
 }

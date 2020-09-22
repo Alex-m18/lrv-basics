@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -14,6 +15,6 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     // return view('welcome');
-    return 'APP_NAME: ' . Environment::get('APP_NAME') . '<br>'
-        . 'APP_ENV: ' . Environment::get('APP_ENV');
+    return 'APP_NAME: ' . Environment::get('app.name') . '<br>'
+        . 'APP_ENV: ' . Environment::get('app.env');
 });
